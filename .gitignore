@@ -1,2 +1,4 @@
 api_keys.py
-Cities.csv
+*.csv
+*.png
+
